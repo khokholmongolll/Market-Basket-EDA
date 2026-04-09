@@ -2,7 +2,7 @@
 
 
 ###  Обзор проекта
-В данном проекте я выступаю в роли функционального аналитика. Моя цель — повысить средний чек (AOV) и количество товаров в корзине (UPT) интернет-магазина за счет внедрения системы Bundles. На основе датасета [kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data)
+Моя цель — повысить средний чек (AOV) и количество товаров в корзине (UPT) интернет-магазина за счет внедрения системы Bundles. На основе датасета [kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data)
 
 ---
 
